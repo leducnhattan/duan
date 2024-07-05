@@ -1,0 +1,66 @@
+.card{
+    border: 20px solid rgb(17, 46, 120);
+    width: 700px;
+    height: 200px;
+    background-color: rgb(6, 6, 59);
+}
+
+.card-body{
+    position: absolute;
+    margin: 15px;
+}
+
+.card-title{
+    color: white;
+}
+
+.card-a{
+    color: white;
+}
+
+.card-b{
+    color: white;
+    bottom: 100px;
+}
+
+.btn-view{
+    border: 0px;
+    background-color: rgb(6, 6, 59);
+    color: white;
+    cursor: pointer;
+}
+
+.card-body2{
+    bottom: 15px;
+    width: 450px;
+    height: 200px;
+    position: relative;
+    left: 250px;
+    background-color: white;
+    color: black;
+}
+
+.card-title2{
+    left: 15px;
+    position: absolute;
+    top: 20px;
+    color: gray;
+}
+
+.card-c{
+    left: 15px;
+position: absolute;
+top: 60px;
+}
+
+.btn-conti{
+    position: absolute;
+    background-color: rgb(6, 6, 59);
+    color: white;
+    height: 40px;
+    width: 80px;
+    border-radius: 40%;
+    top: 150px;
+    left: 310px;
+    cursor: pointer;
+}

@@ -1,0 +1,149 @@
+.home {
+    width: 70%;
+    height: 600px;
+    border: 1px solid black;
+    margin-left: 230px;
+    margin-top: 40px;
+}
+
+.home .home1 {
+    width: 100%;
+    height: 30%;
+    border: 1px solid black;
+}
+
+.home .home1 .logo {
+    width: calc(30% - 2px);
+    font-size: 40px;
+    text-align: center;
+    height: 100%;
+    float: left;
+    border: 1px solid black;
+}
+
+.home .home1 .banner {
+    width: calc(70% - 2px);
+    font-size: 40px;
+    text-align: center;
+    height: 100%;
+    float: left;
+    border: 1px solid black;
+}
+
+.home .home2 {
+    width: 100%;
+    height: 15%;
+    border: 1px solid black;
+}
+
+.home .home2 .a{
+    width: calc(10% - 2px);
+    height: 100%;
+    font-size: 40px;
+    text-align: center;
+    border: 1px solid black;
+    float: left;
+}
+.home .home2 .b{
+    width:calc(17% - 2px);
+    height: 100%;
+    font-size: 40px;
+    text-align: center;
+    border: 1px solid black;
+    float: left;
+}
+.home .home2 .c{
+    width: calc(43% - 2px);
+    height: 100%;
+    font-size: 40px;
+    text-align: center;
+    border: 1px solid black;
+    float: left;
+}
+.home .home2 .d{
+    width: calc(30% - 1px);
+    height: 100%;
+    font-size: 40px;
+    text-align: center;
+    border: 1px solid black;
+    float: left;
+}
+
+.home .home3{
+    width: 100%;
+    height: calc(55% - 3px);
+    border: 1px solid black;
+}
+
+.home .home3 .slide-bar{
+    width: calc(25% - 2px);
+    height: 100%;
+    text-align: center;
+    font-size: 40px;
+    float: left;
+    border: 1px solid black;
+}
+
+.home .home3 .List-Product{
+    width: calc(75% - 2px);
+    height: 100%;
+
+    font-size: 40px;
+    float: left;
+    border: 1px solid black;
+}
+
+.admin {
+    width: 70%;
+    height: 600px;
+    border: 1px solid black;
+    margin-left: 230px;
+    margin-top: 40px;
+}
+
+.admin .admin1{
+    width: calc(20% - 2px);
+    height: 100%;
+    border: 1px solid black;
+    float: left;
+}
+
+.admin .admin1 .product{
+    width: 70%;
+    height: 50px;
+    text-align: center;
+    font-size: 40px;
+    border: 2px solid black;
+    margin-top: 100px;
+    margin-left: 30px;
+}
+.admin .admin1 .order{
+    width: 70%;
+    height: 50px;
+    text-align: center;
+    font-size: 40px;
+    margin-left: 30px;
+    border: 2px solid black;
+}
+
+.admin .admin2{
+    width: calc(80% - 2px);
+    height: 100%;
+    border: 1px solid black;
+    float: left;
+}
+
+.admin .admin2 .menu-admin{
+    width: 100%;
+    height: calc(15% - 2px);
+    text-align: center;
+    font-size: 40px;
+    border: 2px solid black;
+}
+
+.admin .admin2 .list-users{
+    width: 100%;
+    height: calc(85% - 2px);
+    font-size: 40px;
+    border: 2px solid black;
+}

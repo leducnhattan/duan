@@ -1,0 +1,25 @@
+.card{
+    width: 80%;
+    height: 630px;
+    background-color: rgb(75, 7, 96);
+    border: 13px solid rgb(12, 1, 15);
+}
+.card-body{
+    position: absolute;
+    margin: 15px;
+}
+.card-img{
+    width: 100%;
+    position: relative;
+    bottom: 50px;
+}
+
+.card-body2{
+    width: 350px;
+    position: relative;
+    left: 830px;
+    color: white;
+    border: rgb(75, 7, 96);
+    font-size: 18px;
+    
+}

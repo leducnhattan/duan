@@ -1,0 +1,21 @@
+.parent{
+    background-color: rgba(174, 228, 28, 0.705);
+}
+
+.red{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.blue{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: sticky;
+    top: 10px;
+}
+.yellow{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}

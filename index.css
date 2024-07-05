@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    height: 140px;
+    width: 100%;
+    border: 1px solid black;
+}
+
+.nav-bar {
+    height: 70px;
+    width: 100%;
+    border: 1px solid black;
+    margin-top: 10px;
+}
+
+.main {
+    height: 500px;
+    width: 100%;
+    border: 1px solid black;
+    margin-top: 10px;
+}
+
+.footer {
+    height: 50px;
+    width: 100%;
+    border: 1px solid black;
+    margin-top: 10px;
+}
+
+.header .logo {
+    width: calc(25% - 5px);
+    height: 100%;
+    border: 1px solid red;
+    margin-right: 5px;
+    float: left;
+}
+
+.header .banner {
+    width: 75%;
+    height: 100%;
+    border: 1px solid red;
+    float: left;
+}

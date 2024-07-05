@@ -1,0 +1,52 @@
+.parent{
+    background-color: rgba(174, 228, 28, 0.705);
+}
+
+.blue{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.red{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    top: 200px;
+    left: 510px;
+}
+
+.yellow{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    position: relative;
+    top: 100px;
+}
+.black{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: relative;
+    bottom: 300px;
+    left: 510px;
+}
+
+.while{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    position: absolute;
+    bottom: 450px;
+    left: 270px;
+}
+
+.btn-up{
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    position: fixed;
+    top: 600px;
+    left: 600px;
+}

@@ -1,0 +1,20 @@
+
+.body{
+
+position: absolute;
+}
+
+.hinh2{
+
+position: relative;
+left: 45%;
+top: 120px;
+
+}
+.chu{
+    
+    color: green;
+    position: relative;
+    left: 45%;
+    top: 120px;
+}

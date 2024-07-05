@@ -1,0 +1,156 @@
+.main{  
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    height: 70px;
+    background-color: orange;
+}
+
+.header .header-1{
+    width: 20%;
+    height: 100%;
+    margin-right: 10px;
+    color: aliceblue;
+    text-align:right;
+    float: left;
+
+}
+
+.header .header-2{
+    width: 15%;
+    height: 100%;
+    margin-left: 15px;
+    float: left;
+  
+}
+.header .header-2 .anh{
+    width: 20%;
+    float: left;
+   
+}
+.header .header-2 .content{
+    width: 80%;
+    float: left;
+
+    
+}
+.header .header-3 {
+    width: 35%;
+    color: aliceblue;
+    height: 100%;
+    margin-left: 15px;
+    float: left;
+}
+
+.header .header-3 .header-menu-1{
+    float: left;
+    margin-left: 10px;
+}
+.header .header-3 .header-menu-2{
+    float: left;
+    margin-left: 18px;
+}
+.header .header-3 .header-menu-3{
+    float: left;
+    margin-left: 18px;
+}
+.header .header-3 .header-menu-4{
+    float: left;
+    margin-left: 18px;
+}
+.header .header-3 .header-menu-5{
+    float: left;
+    margin-left: 18px;
+}
+
+.header .header-4{
+    width: 25%;
+    height: 100%;
+    margin-left: 20px;
+    float: left;
+}
+
+.header .header-4 .header-user{
+    font-size: 40px;
+    float: left;
+
+}
+.header .header-4 .header-user2{
+    font-size: 40px;
+    float: left;
+    margin-left: 40px;
+}
+
+.body{
+    width: 80%;
+    margin-top: 10px;
+    margin-left: 150px;
+}
+
+.body .body-2{
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    row-gap: 20px;
+}
+.body .body-2 .body-item{
+    width: 11%;
+    height: 70px;
+    text-align: center;
+}
+
+.body .body-2 .body-item .anh{
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 2%;
+    height: 40px;
+    display: flex;
+}
+
+.footer{
+    width: 100%;
+    height: 700px;
+    background-color: rgb(222, 130, 31);
+    position: relative;
+}
+
+.footer .footer1{
+    position: absolute;
+    top: 180px;
+    margin-left: 700px;
+    
+}
+
+
+.footer .footer2{
+    position: absolute;
+    top: 300px;
+    margin-left: 100px;
+    
+}
+.footer .footer3{
+    position: absolute;
+    top: 450px;
+    margin-left: 250px;
+    
+}
+
+.footer .footer4{
+    position: absolute;
+    top: 450px;
+    margin-left: 360px;
+    
+}
+
+.footer .footer5{
+    width: 35%;
+    position: absolute;
+    top: 300px;
+    margin-left: 200px;
+    
+}
